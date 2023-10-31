@@ -1,0 +1,129 @@
+*{
+background-color: rgb(79, 177, 177);
+padding: 0;
+margin: 0;
+}
+ /* start of the navbar */
+ .navbar .logo{
+  margin-top: -1rem;
+ }
+
+.navbar .logo img{
+  width:14%;
+  margin-left: 3rem;
+  margin-top: 0.9rem;
+}
+
+.navbar .navlinks{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-left: -5rem;
+  margin-top: -7rem;
+}
+
+.navbar .navlinks a{
+  margin-top: 0.4rem;
+margin-left: 1.5rem;
+text-decoration: none;
+font-family: 'Inter', sans-serif;
+color: white;
+}
+
+.navbar .search i{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  margin-right: 13rem;
+  font-size: larger;
+  margin-top: -1.2rem;
+}
+
+.navbar .butn{
+  display: flex;
+  justify-content: right;
+  align-items: right;
+  margin-top: -1.7rem;
+  margin-right: 9.5rem;
+}
+
+.navbar .butn button{
+  border: none;
+  background-color:  rgb(182, 184, 184);
+  padding: 0.5rem;
+  border-radius: 3rem;
+  color: white;
+  font-weight: 550;
+}
+ /* start of the navbar */
+
+ /* body */
+.heading h1{
+  font-size: 2rem;
+  font-family: 'inter', sans-serif;
+  color: white;
+  margin-top: 7rem;
+  margin-left: 6rem;
+  font-weight: 700;
+  font-size: 3.5rem;
+}
+
+.pagh p{
+  font-family: 'inter', sans-serif;
+  font-size: 1.2rem;
+  color: white;
+  margin-top: 2rem;
+  margin-left: 6rem;
+}
+
+.pro {
+  display: flex;
+  justify-content: right;
+  align-items: right;
+}
+
+.pro img{
+  margin-top: -20rem;
+  margin-right: 7rem;
+  width: 28rem;
+}
+
+.btn-2 {
+margin-top: -12rem;
+margin-left: 6rem;
+}
+
+.btn-2 button{
+border: none;
+background-color:  rgb(182, 184, 184);
+padding: 0.5rem;
+border-radius: 3rem;
+color: white;
+font-weight: 550;
+}
+
+
+
+/* body */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
